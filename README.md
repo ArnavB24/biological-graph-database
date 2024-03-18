@@ -2,9 +2,9 @@
 
 Graph Database Infrastructure for Biological Applications (particularly molecular biology applications)
 
-This is basically where we are collecting all our Neo4j code for making general purpose biological graph databases. We've found this infrastructure useful on multiple occasions.
+This is basically where I am collecting all my Neo4j code for making general purpose biological graph databases. I've found this infrastructure useful on multiple occasions.
 
-We started with NCBI's taxonomy and gene data.
+I started with NCBI's taxonomy and gene data.
 
 ## How to run this thing
 
@@ -65,7 +65,7 @@ python3 load_gene_to_pubmed.py --hostname localhost --username neo4j --password 
 python3 load_gene_to_go.py --hostname localhost --username neo4j --password a-not-too-serious-password --limit-taxonomies-to 9606,10090,10116
 ```
 
-## Running the code we created for a Harvard Medical School demonstration
+## Running the code I created for a Harvard Medical School demonstration
 
 ```
 cd project_for_Harvard_Medical_School__Kevin/
