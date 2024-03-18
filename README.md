@@ -4,7 +4,9 @@ Graph Database Infrastructure for Biological Applications (particularly molecula
 
 This is basically where I am collecting all my Neo4j code for making general purpose biological graph databases. I've found this infrastructure useful on multiple occasions.
 
-I started with NCBI's taxonomy and gene data.
+## Example result
+
+![Tutorial Image 004](images/tutorial_image_004.png)
 
 ## How to run this thing
 
