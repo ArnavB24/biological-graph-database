@@ -6,7 +6,7 @@ This is basically where I am collecting all my Neo4j code for making general pur
 
 ## Example result
 
-![Tutorial Image 003](tutorial/images/tutorial_image_003.png)
+![Tutorial Image 001](tutorial/images/tutorial_image_001.png)
 
 ## How to run this thing
 
