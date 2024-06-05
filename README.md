@@ -11,7 +11,7 @@ Please see the "tutorial" directory for queries and examples.
 ## How to run this thing
 
 You need a lot of memory...
-
+You can download the data yourself from the sources. Same links may not work. No need to recompress based on your device capabilities. Create the directories as needed. 
 ```
 mkdir output
 mkdir output/gene_lists
@@ -30,7 +30,7 @@ cd ..
 cd data
 mkdir gene
 cd gene
-wget ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/gene_info.gz
+wget ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/GENE_INFO//All_Data.gene_info.gz
 wget ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/gene2go.gz
 wget ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/gene2pubmed.gz
 gunzip gene_info.gz
