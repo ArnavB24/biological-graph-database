@@ -30,7 +30,7 @@ cd ..
 cd data
 mkdir gene
 cd gene
-wget ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/GENE_INFO//All_Data.gene_info.gz
+wget ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/gene_info.gz
 wget ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/gene2go.gz
 wget ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/gene2pubmed.gz
 gunzip gene_info.gz
